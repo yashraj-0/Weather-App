@@ -38,7 +38,7 @@ h1 {
     cursor: pointer;
     font-size: 0.875rem;
     letter-spacing: 1.75px;
-    padding: 5px 8px;
+    padding: 6px 8px;
 }
 
 .tab.current-tab{
